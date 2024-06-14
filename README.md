@@ -16,6 +16,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 + **Google Icons:** Para iconos personalizados.
 
   ### Vista Previa del Proyecto
+  ![Demo] (/imagenes/ vista del pro.jpeg)
 
   ### Contacto
   Marifer Salomón: [Mi LinKedIn](www.linkedin.com/in/maría-fernanda-salomón-arellano-23a58027b)
